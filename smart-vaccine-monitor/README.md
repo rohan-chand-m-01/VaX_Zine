@@ -19,13 +19,6 @@ This system prevents this wastage by tracking cumulative heat damage via the **A
 
 ## 🏗 System Architecture Flowchart
 
-<div align="center">
-  <img src="assets/architecture_flowchart.png" alt="Architecture Flowchart" width="800">
-</div>
-
-<br>
-
-*Interactive Code View:*
 ```mermaid
 graph TD
     A[Raspberry Pi / CSV Simulator] -->|JSON Payload| B(MQTT Subscriber Topic: vaccines/sensor/data)
@@ -57,13 +50,6 @@ graph TD
 
 ## 🧠 System Mind Map
 
-<div align="center">
-  <img src="assets/system_mindmap.png" alt="System Mind Map" width="800">
-</div>
-
-<br>
-
-*Interactive Code View:*
 ```mermaid
 mindmap
   root((Smart Vaccine Monitor))
