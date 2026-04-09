@@ -1,10 +1,21 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/IoT-Smart%20Monitor-00D4FF?style=for-the-badge&logo=internet-of-things&logoColor=white" alt="IoT Badge"/>
-  <img src="https://img.shields.io/badge/AI-Predictive%20Analytics-FF5D5D?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Badge"/>
+  <!-- Status & License Badges -->
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge" alt="Contributions Badge"/>
+  <br><br>
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT Badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Badge"/>
+  
   <h1>Vaccine Cold-Chain Surveillance System</h1>
   <p><b>Real-time IoT + AI solution preventing critical global health risks with actionable data and automated compliance.</b></p>
 </div>
-
 <br>
 
 ## 🌍 The Problem & The Impact
