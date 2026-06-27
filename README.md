@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT Badge"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Badge"/>
+  
   
   <h1>Vaccine Cold-Chain Surveillance System</h1>
   <p><b>Real-time IoT + AI solution preventing critical global health risks with actionable data and automated compliance.</b></p>
